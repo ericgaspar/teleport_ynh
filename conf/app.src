@@ -1,5 +1,5 @@
-SOURCE_URL=url of app's source
-SOURCE_SUM=sha256 checksum
+SOURCE_URL=https://cdn.teleport.dev/teleport-v12.0.4-linux-amd64-bin.tar.gz
+SOURCE_SUM=84ce1cd7297499e6b52acf63b1334890abc39c926c7fc2d0fe676103d200752a
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
